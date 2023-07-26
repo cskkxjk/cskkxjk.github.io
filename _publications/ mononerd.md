@@ -10,7 +10,8 @@ code: 'https://github.com/cskkxjk/MonoNeRD'
 supplementary_materials: 
 year: '2023'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+
+<b>Abstract:</b>
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
