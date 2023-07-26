@@ -6,7 +6,7 @@ excerpt: '[Liang Peng](https://spengliang.github.io/), **Junkai Xu**, Haoran Che
 date: 2023-05-25
 venue: 'arxiv'
 paperurl: "https://arxiv.org/abs/2305.15694"
-citation: "http://cskkxjk.github.io/files/bibtex/occm3d.html"
+[comment]: <> (citation: "http://cskkxjk.github.io/files/bibtex/occm3d.html")
 code: "https://github.com/SPengLiang/OccupancyM3D"
 year: '2023'
 ---
