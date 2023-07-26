@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+I am a Ph.D. student at State Key Lab of CAD&CG, Zhejiang University, advised by Prof. [Deng Cai](http://www.cad.zju.edu.cn/home/jin/).
+
 Education
 ======
 * B.S. in Mechanical Engineering, Beihang University, 2013-2017
