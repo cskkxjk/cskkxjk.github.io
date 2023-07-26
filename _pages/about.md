@@ -1,11 +1,11 @@
 ---
-permalink:
+permalink: /
 title: "About me"
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - about/
-  - about.html
+  - /about/
+  - /about.html
 ---
 
 I'm Junkai Xu (徐骏凯), a third-year (2021-now) Ph.D. student in State Key Lab of CAD&CG at Zhejiang University, advised by Prof. [Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/). 
