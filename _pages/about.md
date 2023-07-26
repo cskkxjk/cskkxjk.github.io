@@ -10,7 +10,7 @@ redirect_from:
 
 I'm Junkai Xu (徐骏凯), a third-year (2021-now) Ph.D. student in State Key Lab of CAD&CG at Zhejiang University, advised by Prof. [Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/). 
 I obtained my Bachelor degree in mechanical engineering from Beihang University in 2017.
-I started pursuing a Master's degree in computer technology in 2019 at Zhejiang University and upgraded to a Ph.D.program in 2021.
+I started pursuing a Master's degree in computer technology in 2019 at Zhejiang University and transferred to a Ph.D.program in 2021.
 
 **Research Interest:** Computer Vision, Vision Perception, NeRF, Generative Models.
 
