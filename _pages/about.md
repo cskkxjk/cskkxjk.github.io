@@ -24,7 +24,7 @@ I started pursuing a Master's degree in computer technology in 2019 at Zhejiang 
 
 ## 2023
 
-1. [MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection]#(https://cskkxjk.com/publication/mononerd)
+1. [MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection](https://cskkxjk.com/publication/mononerd)
 
    2023 IEEE/CVF International Conference on Computer Vision (ICCV)
 
