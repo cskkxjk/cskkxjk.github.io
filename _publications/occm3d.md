@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/occm3d
 excerpt: '[Liang Peng](https://spengliang.github.io/), **Junkai Xu**, Haoran Cheng, Zheng Yang, Xiaopei Wu, Wei Qian, Wenxiao Wang, Boxi Wu, [Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/)'
 date: 2023-05-25
-venue: 'arxiv'
-paperurl: "https://arxiv.org/abs/2305.15694"
+venue: 'Arxiv'
+paperurl: 'https://arxiv.org/abs/2305.15694'
 citation: "http://cskkxjk.github.io/files/bibtex/occm3d.html"
 code: "https://github.com/SPengLiang/OccupancyM3D"
 year: '2023'
