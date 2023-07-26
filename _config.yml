@@ -11,7 +11,7 @@ title                    : "Junkai Xu / cskkxjk"
 title_separator          : "-"
 name                     : &name "Junkai Xu"
 description              : &description "State Key Lab of CAD&CG, Zhejiang University"
-url                      : https://cskkxjk.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cskkxjk.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cskkxjk/cskkxjk.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -89,7 +89,7 @@ author:
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "xujunkai@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://cskkxjk.com/"
+  uri              : "https://cskkxjk.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
