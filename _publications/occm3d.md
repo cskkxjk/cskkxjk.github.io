@@ -1,7 +1,7 @@
 ---
 title: "Learning Occupancy for Monocular 3D Object Detection"
 collection: publications
-permalink: publication/occm3d
+permalink: /publication/occm3d
 excerpt: '[Liang Peng](https://spengliang.github.io/), **Junkai Xu**, Haoran Cheng, Zheng Yang, Xiaopei Wu, Wei Qian, Wenxiao Wang, Boxi Wu, [Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/)'
 date: 2023-05-25
 venue: 'arxiv'
