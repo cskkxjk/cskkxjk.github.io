@@ -59,9 +59,9 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
-    <!--{% if site.read_more == 'enabled' %}
+    {% if site.read_more == 'enabled' %}
     <p><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></p>
-    {% endif %} -->
+    {% endif %}
     <p>
       {% if post.citation%}
       [<a href="{{ post.citation }}">cite</a>] 
