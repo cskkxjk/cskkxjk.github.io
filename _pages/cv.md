@@ -19,14 +19,14 @@ Education
 
 Work experience
 ======
-* 2020.06 - 2021.07: Research Assistant Intern
+* 2020.06 - 2021.07: Research Intern
   * DAMO Academy, Alibaba Group, Hangzhou, Zhejiang
   * Traffic Prediction, Vehicle Routing Problem
   * Supervisor: Zhongming Jin
 
-* 2022.01 - now: Research Assistant Intern
+* 2022.01 - now: Research Intern
   * Fabu Inc., Hangzhou, Zhejiang
-  * Monocular 3D Object Detection, Vision-centric Occupancy Prediction
+  * 3D Object Detection, Vision-centric Occupancy Prediction
   * Supervisor: Wei Qian
   
 Interests
