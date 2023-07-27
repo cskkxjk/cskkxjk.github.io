@@ -2,7 +2,7 @@
 title: "MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection"
 collection: publications
 permalink: /publication/mononerd
-excerpt: '**Junkai Xu**, [Liang Peng](https://spengliang.github.io/), Haoran Cheng, Hao Li, Wei Qian, Ke Li, Wenxiao Wang, [Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/)'
+excerpt: '**Junkai Xu**, [Liang Peng](https://spengliang.github.io/), Haoran Cheng, Hao Li, Wei Qian, Ke Li, [Wenxiao Wang](https://www.wenxiaowang.com/), [Deng Cai](http://www.cad.zju.edu.cn/home/dengcai/)'
 date: 2023-08-30
 venue: '2023 IEEE/CVF International Conference on Computer Vision (ICCV)'
 paperurl: 'comming soon'
