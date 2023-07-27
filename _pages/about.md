@@ -32,4 +32,6 @@ I started pursuing a Master's degree in computer technology in 2019 at Zhejiang 
 
 2. [Learning Occupancy for Monocular 3D Object Detection](https://cskkxjk.github.io/publication/occm3d)
 
+   arXiv:2305.15694
+   
    Liang Peng, **Junkai Xu**, Haoran Cheng, Zheng Yang, Xiaopei Wu, Wei Qian, Wenxiao Wang, Boxi Wu, Deng Cai
