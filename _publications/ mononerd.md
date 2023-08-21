@@ -6,6 +6,7 @@ excerpt: '**Junkai Xu**, [Liang Peng](https://spengliang.github.io/), Haoran Che
 date: 2023-08-30
 venue: '2023 IEEE/CVF International Conference on Computer Vision (ICCV)'
 paperurl: 'https://arxiv.org/abs/2308.09421'
+citation: "http://cskkxjk.github.io/files/bibtex/mononerd.html"
 code: 'https://github.com/cskkxjk/MonoNeRD'
 supplementary_materials: 'comming soon'
 year: '2023'
