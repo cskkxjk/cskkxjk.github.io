@@ -8,7 +8,7 @@ venue: '2023 IEEE/CVF International Conference on Computer Vision (ICCV)'
 paperurl: 'https://arxiv.org/abs/2308.09421'
 citation: "http://cskkxjk.github.io/files/bibtex/mononerd.html"
 code: 'https://github.com/cskkxjk/MonoNeRD'
-supplementary_materials: 'comming soon'
+supplementary_materials: 'https://drive.google.com/file/d/1cchFYQD7BXah208bP_EyPXB5hbDR4cLN/view?usp=sharing'
 year: '2023'
 ---
 ![mononerd](https://cskkxjk.github.io/images/publications/mononerd.gif)
