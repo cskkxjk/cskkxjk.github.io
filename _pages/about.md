@@ -33,7 +33,7 @@ I started pursuing a Master's degree in computer technology in 2019 at Zhejiang 
 
    2023 IEEE/CVF International Conference on Computer Vision (ICCV)
 
-   **Junkai Xu**, Liang Peng, Haoran Cheng, Hao Li, Wei Qian, Ke Li, Wenxiao Wang, Deng Cai.
+   **Junkai Xu**, Liang Peng, Haoran Cheng, Hao Li, Wei Qian, Ke Li, Wenxiao Wang, Deng Cai
 
 3. [Learning Occupancy for Monocular 3D Object Detection](https://cskkxjk.github.io/publication/occm3d)
 
