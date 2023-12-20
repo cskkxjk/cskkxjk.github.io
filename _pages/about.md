@@ -23,14 +23,19 @@ I started pursuing a Master's degree in computer technology in 2019 at Zhejiang 
 # Publications
 
 ## 2023
+1. [Regulating Intermediate 3D Features for Vision-Centric Autonomous Driving](https://cskkxjk.github.io/publication/regulating)
 
-1. [MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection](https://cskkxjk.github.io/publication/mononerd)
+   2024 AAAI Conference on Artificial Intelligence (AAAI)
+
+   **Junkai Xu**, Liang Peng, Haoran Cheng, Linxuan Xia, Qi Zhou, Dan Deng, Wei Qian, Wenxiao Wang, Deng Cai
+
+2. [MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection](https://cskkxjk.github.io/publication/mononerd)
 
    2023 IEEE/CVF International Conference on Computer Vision (ICCV)
 
    **Junkai Xu**, Liang Peng, Haoran Cheng, Hao Li, Wei Qian, Ke Li, Wenxiao Wang, Deng Cai.
 
-2. [Learning Occupancy for Monocular 3D Object Detection](https://cskkxjk.github.io/publication/occm3d)
+3. [Learning Occupancy for Monocular 3D Object Detection](https://cskkxjk.github.io/publication/occm3d)
 
    arXiv:2305.15694
    
